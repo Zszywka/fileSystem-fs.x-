@@ -1,0 +1,1 @@
+.git,.gitignore,cat.jpg,exercise.js,exercise2.js,index.js,node_modules,package-lock.json,package.json,tekst.txt,warehouse.txt
